@@ -1,16 +1,16 @@
-\# Retail Sales and Profitability Analysis
+# Retail Sales and Profitability Analysis
 
 
 
-\## Project Overview
+## Project Overview
 
 This project explores a retail sales dataset to analyse sales performance, profitability, regional trends, and discount patterns. The goal is to identify meaningful business insights and provide data-driven recommendations.
 
 
 
-\## Project Objectives
+## Project Objectives
 
-\- Understand and explore the retail sales dataset.
+- Understand and explore the retail sales dataset.
 
 \- Clean and prepare data for analysis.
 
